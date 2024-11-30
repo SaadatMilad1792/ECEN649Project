@@ -10,7 +10,9 @@ The resutls show that for altitude the error decreases as we increase the points
 not be said about the predictions for longitude, and latitude. 
 
 ECEN649_Project_V1 -> results for single input.
+
 ECEN649_Project_V2 -> results for three consecutive inputs.
+
 ECEN649_Project_V3 -> results for five consecutive inputs.
 
 All codes have been provided in jupyter notebook files, in order to run them simply restart the kernel 
